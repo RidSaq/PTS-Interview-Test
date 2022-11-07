@@ -9,9 +9,9 @@ To run, cd into this folder:
 
 2 - Activate venv:
 
-a - On cmd ```.\venv\Scripts\activate.bat```
+    a - On cmd:  .\venv\Scripts\activate.bat
 
-b - On powershell ```.\venv\Scripts\Activate.ps1```
+    b - On powershell:  .\venv\Scripts\Activate.ps1
 
 3 - Install requirements using
 
